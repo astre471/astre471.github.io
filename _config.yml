@@ -1,0 +1,117 @@
+# Jekyll config file
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# ASTRE Note: Based on https://github.com/mmistakes/mm-github-pages-starter/blob/master/_config.yml
+
+title: ASTRE Online Capital District Rocketry
+email: i n f o AT astre471.org
+locale: "en-US"
+
+# GitHub Pages specific location
+url: "https://straber.github.io"  # Domain name  TODO update: website move
+baseurl: "/astre471" # relative to url above TODO update: website move
+
+description: >-
+  Albany-Schenectady-Troy Rocket Enthusiasts of New York is an NAR-associated rocketry club with members
+  from around the Capital District of New York.
+github_username: Straber # TODO update: github move
+minimal_mistakes_skin: default
+search: true
+repository: "Straber/astre471" # TODO update: GitHub move
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+minimal_mistakes_skin: "contrast" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
+logo: "/assets/images/logo-88x78.png"
+head_scripts:
+  - /assets/js/custom-head-favicon.js
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "ASTRE Online"
+  avatar : "/assets/images/logo.png"
+  bio    : >-
+    ASTRE, the Albany-Schenectady-Troy Rocket Enthusiasts of New York, is a model
+    rocketry club with members from all over the Capital District.
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Straber/astre471" # TODO update: github move
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Straber/astre471" # TODO update: github move
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:categories/:year/:month/:day/:title  # default is /:categories/:title which results in duplicate URLs for posts on different days with the same title
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/

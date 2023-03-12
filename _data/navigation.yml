@@ -1,0 +1,13 @@
+main:
+  - title: "Join"
+    url: /join/
+  - title: "Launches"
+    url: /launches/
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
+  - title: "Pictures"
+    url: /pictures/
+  - title: "Contacts"
+    url: /contacts/

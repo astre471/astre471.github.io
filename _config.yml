@@ -21,8 +21,8 @@ email: i n f o AT astre471.org
 locale: "en-US"
 
 # GitHub Pages specific location
-url: "https://straber.github.io"  # Domain name  TODO update: website move
-baseurl: "/astre471" # relative to url above TODO update: website move
+url: "https://astre471.github.io"  # Domain name  TODO update: website move
+baseurl: "/website" # relative to url above TODO update: website move
 
 description: >-
   Albany-Schenectady-Troy Rocket Enthusiasts of New York is an NAR-associated rocketry club with members

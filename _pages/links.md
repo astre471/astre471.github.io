@@ -10,8 +10,6 @@ Helpful links on model rocketry.
 
 * [Rocketry Clubs in the Northeast](https://astre471.org/otherclubs.html) - (In NY, NJ, MA, CT or PA)
 
-* [Ray Bedard](http://rebedard.com/rocketry/) - Ray's simple page (2011-2013)
-
 * [Weather](http://www.atmos.albany.edu/index.php?d=wx_overview) - University at Albany's Weather report
 
 * [Aviation Weather Report](http://www.usairnet.com/cgi-bin/launch/code.cgi?Submit=Go&sta=KALB&state=NY) - New York Aviation weather report.

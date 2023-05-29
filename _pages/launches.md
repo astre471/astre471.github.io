@@ -4,7 +4,7 @@ title: "Launches"
 toc: true
 ---
 
-ASTRE conducts about 6 launches per year - see below for the schedule.
+ASTRE conducts about 5-6 launches per year - see below for the schedule.
 
 New to rocketeering?  See what [items we recommend]({{ site.baseurl }}/launches/what-to-bring) to bring to a launch.
 
@@ -19,23 +19,23 @@ your model rocket skills and designs.  There are a couple launches per year spon
 
 If you're interested in attending a launch, [join today]({{ site.baseurl }}/join/)!  Only ASTRE members or their guests can attend launches.
 
-> ⚠️ Per the terms designated by the Fairgrounds, launches are **not** open to outside spectators. Sorry!
-
 If you are a member and wish to invite non-members as guests for a particular launch, 
 send a request to [info@astre471.org](mailto:info@astre471.org) at least 5 days before the launch.
 
-<!-- MAS: TODO there was also a request to invite someone by sending an email to the group.io -->
-<!-- MAS: I think there was a limit on the number of guests per year, not sure if that's a real limit or not -->
-
 ## Location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.410983640599!2d-73.55313!3d43.095085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ce0d8a869cb0bae!2zNDPCsDA1JzQyLjMiTiA3M8KwMzMnMTEuMyJX!5e1!3m2!1sen!2sus!4v1672150582202!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2916.6005689418325!2d-73.55264401241733!3d43.028793921570866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1685383509132!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-The launch site is the parking field for the Washington County Fairgrounds. 
-Look to the west of the Fair buildings in Greenwich, NY.
+The launch site is **NEW** for 2023:
 
-> :warning: There are *no bathrooms* on the launch site.  The nearest bathrooms are at a Stewart's
-convenience store about 5 minutes driving distance from the launch site - plan accordingly!
+  89 Anuszewski Lane
+  Greenwich, NY
+
+Park off the road as much as possible. This is a private property where the owner is permitting us to launch this year, so
+please be courteous and pick up after yourself!
+
+> :warning: There are *no bathrooms* on the launch site.  The nearest bathrooms are at a Hannaford
+grocery store about 6 minutes driving distance from the launch site - plan accordingly!
 
 ## Maximum Motor Size & Weight
 
@@ -44,17 +44,6 @@ The maximum motor impulse for this launch site is full G(*).  Maximum launch wei
 (*) Some G motors are not classified as "model rocket motors" because of propellant type and cannot be used at this launch site.
 Check the [motor classification](https://www.nar.org/standards-and-testing-committee/nar-certified-motor-list/) on
 the [National Association of Rocketry website](https://www.nar.org).
-
-## Launch Schedule - 2022
-
-| **Month** 	|  **Date** 	| **Rain Date** 	| **Hours** 	|
-|:---------:	|:---------:	|:-------------:	|:---------:	|
-|       May 	| Sat       	| Sat           	| 1pm - 5pm 	|
-|      June 	| Sat 6/18  	| Sat 6/25      	| 1pm - 5pm 	|
-|      July 	| Sat 7/9   	| Sat 7/30      	| 1pm - 5pm 	|
-|    August 	| -         	| -             	| 1pm - 5pm 	|
-| September 	| Sat 9/17  	| Sat 9/24      	| 1pm - 5pm 	|
-|   October 	| Sat 10/15 	| Sat 10/22     	| 1pm - 5pm 	|
 
 
 ## Go/No Go Decision

@@ -32,3 +32,6 @@ If you're adding pictures for a new event, such as a sport launch:
 
 3. Edit the [pictures.md](pictures.md) to add a linkt to the new event.
 
+### Building Locally
+
+See the [GitHub docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekylltesting-your-github-pages-site-locally-with-jekyll#building-your-site-locally) on how to build and test using Jekyll locally.

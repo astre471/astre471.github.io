@@ -48,17 +48,11 @@ head_scripts:
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# define custom collections
+collections:
+  launch_pictures:                                   # requires `_launch_pictures` directory
+    output: true                                     # required to generate html output
+    permalink: /:categories/:year/:month/:day/:title # default is /:categories/:title which results in duplicate URLs for posts on different days with the same title
 
 # Plugins (previously gems:)
 plugins:
@@ -107,6 +101,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _launch_pictures
+  - scope:
+      path: "_launch_pictures"
+      type: launch_pictures
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid

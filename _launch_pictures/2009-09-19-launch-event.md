@@ -1,6 +1,5 @@
 ---
 title: 2009-09-19 Album
-date: 2009-09-19
 categories:
  - launch
 tags:

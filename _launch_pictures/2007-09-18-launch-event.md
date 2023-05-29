@@ -1,6 +1,5 @@
 ---
 title: 2007-09-18 Album
-date: 2007-09-18
 categories:
  - launch
 tags:

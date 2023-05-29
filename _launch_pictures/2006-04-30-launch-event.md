@@ -1,6 +1,5 @@
 ---
 title: 2006-04-30 Album
-date: 2006-04-30
 categories:
  - launch
 tags:

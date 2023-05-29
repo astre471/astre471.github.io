@@ -1,6 +1,5 @@
 ---
 title: 2018-04-21 Album
-date: 2018-04-21
 categories:
  - launch
 tags:

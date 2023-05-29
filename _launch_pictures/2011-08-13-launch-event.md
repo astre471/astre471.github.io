@@ -1,6 +1,5 @@
 ---
 title: 2011-08-13 Album
-date: 2011-08-13
 categories:
  - launch
 tags:

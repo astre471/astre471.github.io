@@ -1,6 +1,5 @@
 ---
 title: 2022-07-09 Album
-date: 2022-07-09
 categories:
  - launch
 tags:

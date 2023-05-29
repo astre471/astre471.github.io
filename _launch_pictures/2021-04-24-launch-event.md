@@ -1,6 +1,5 @@
 ---
 title: 2021-04-24 Album
-date: 2021-04-24
 categories:
  - launch
 tags:

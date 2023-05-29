@@ -1,6 +1,5 @@
 ---
 title: 2018-07-14 Album
-date: 2018-07-14
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2011-12-12 Album
-date: 2011-12-12
 categories:
  - launch
 tags:

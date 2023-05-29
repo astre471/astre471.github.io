@@ -1,6 +1,5 @@
 ---
 title: 2009-08-23 Album
-date: 2009-08-23
 categories:
  - launch
 tags:

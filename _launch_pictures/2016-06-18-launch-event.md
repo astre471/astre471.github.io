@@ -1,6 +1,5 @@
 ---
 title: 2016-06-18 Album
-date: 2016-06-18
 categories:
  - launch
 tags:

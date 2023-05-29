@@ -1,6 +1,5 @@
 ---
 title: 2011-06-19 Album
-date: 2011-06-19
 categories:
  - launch
 tags:

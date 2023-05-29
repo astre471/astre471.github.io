@@ -1,6 +1,5 @@
 ---
 title: 2005-08-27 Album
-date: 2005-08-27
 categories:
  - launch
 tags:

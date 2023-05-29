@@ -1,6 +1,5 @@
 ---
 title: 2009-07-04 Album
-date: 2009-07-04
 categories:
  - launch
 tags:

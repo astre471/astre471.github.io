@@ -1,6 +1,5 @@
 ---
 title: 2013-10-21 Album
-date: 2013-10-21
 categories:
  - launch
 tags:

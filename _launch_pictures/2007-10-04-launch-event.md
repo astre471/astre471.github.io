@@ -1,6 +1,5 @@
 ---
 title: 2007-10-04 Album
-date: 2007-10-04
 categories:
  - launch
 tags:

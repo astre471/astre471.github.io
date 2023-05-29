@@ -1,6 +1,5 @@
 ---
 title: 2015-09-12 Album
-date: 2015-09-12
 categories:
  - launch
 tags:

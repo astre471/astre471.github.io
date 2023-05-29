@@ -1,6 +1,5 @@
 ---
 title: 2006-11-26 Album
-date: 2006-11-26
 categories:
  - launch
 tags:

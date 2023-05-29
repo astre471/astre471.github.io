@@ -1,6 +1,5 @@
 ---
 title: 2014-09-07 Album
-date: 2014-09-07
 categories:
  - launch
 tags:

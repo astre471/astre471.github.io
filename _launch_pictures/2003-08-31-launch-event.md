@@ -1,6 +1,5 @@
 ---
 title: 2003-08-31 Album
-date: 2003-08-31
 categories:
  - launch
 tags:

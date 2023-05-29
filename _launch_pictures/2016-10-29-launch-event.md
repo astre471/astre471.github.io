@@ -1,6 +1,5 @@
 ---
 title: 2016-10-29 Album
-date: 2016-10-29
 categories:
  - launch
 tags:

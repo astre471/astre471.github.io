@@ -1,6 +1,5 @@
 ---
 title: 2005-07-23 Album
-date: 2005-07-23
 categories:
  - launch
 tags:

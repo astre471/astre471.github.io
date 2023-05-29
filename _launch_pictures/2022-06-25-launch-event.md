@@ -1,6 +1,5 @@
 ---
 title: 2022-06-25 Album
-date: 2022-06-25
 categories:
  - launch
 tags:

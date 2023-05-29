@@ -1,6 +1,5 @@
 ---
 title: 2012-06-24 Album
-date: 2012-06-24
 categories:
  - launch
 tags:

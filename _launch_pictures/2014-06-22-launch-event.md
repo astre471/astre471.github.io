@@ -1,6 +1,5 @@
 ---
 title: 2014-06-22 Album
-date: 2014-06-22
 categories:
  - launch
 tags:

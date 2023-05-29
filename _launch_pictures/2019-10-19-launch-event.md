@@ -1,6 +1,5 @@
 ---
 title: 2019-10-19 Album
-date: 2019-10-19
 categories:
  - launch
 tags:

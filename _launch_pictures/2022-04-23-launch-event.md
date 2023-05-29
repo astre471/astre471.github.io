@@ -1,6 +1,5 @@
 ---
 title: 2022-04-23 Album
-date: 2022-04-23
 categories:
  - launch
 tags:

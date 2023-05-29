@@ -1,6 +1,5 @@
 ---
 title: 2011-05-01 Album
-date: 2011-05-01
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2009-10-25 Album
-date: 2009-10-25
 categories:
  - launch
 tags:

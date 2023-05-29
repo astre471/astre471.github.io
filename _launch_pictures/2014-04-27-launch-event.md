@@ -1,6 +1,5 @@
 ---
 title: 2014-04-27 Album
-date: 2014-04-27
 categories:
  - launch
 tags:

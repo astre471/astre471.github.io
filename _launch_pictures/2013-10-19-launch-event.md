@@ -1,6 +1,5 @@
 ---
 title: 2013-10-19 Album
-date: 2013-10-19
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2006-09-03 Album
-date: 2006-09-03
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2015-05-03 Album
-date: 2015-05-03
 categories:
  - launch
 tags:

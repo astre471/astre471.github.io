@@ -1,6 +1,5 @@
 ---
 title: 2010-07-24 Day 1 Album
-date: 2010-07-24
 categories:
  - launch
  - seminar

@@ -1,6 +1,5 @@
 ---
 title: 2012-04-14 Album
-date: 2012-04-14
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2020-08-15 Album
-date: 2020-08-15
 categories:
  - launch
 tags:

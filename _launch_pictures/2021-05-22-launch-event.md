@@ -1,6 +1,5 @@
 ---
 title: 2021-05-22 Album
-date: 2021-05-22
 categories:
  - launch
 tags:

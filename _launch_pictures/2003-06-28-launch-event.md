@@ -1,6 +1,5 @@
 ---
 title: 2003-06-28 Album
-date: 2003-06-28
 categories:
  - launch
 tags:

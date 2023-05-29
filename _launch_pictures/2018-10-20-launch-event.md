@@ -1,6 +1,5 @@
 ---
 title: 2018-10-20 Album
-date: 2018-10-20
 categories:
  - launch
 tags:

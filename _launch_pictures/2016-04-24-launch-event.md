@@ -1,6 +1,5 @@
 ---
 title: 2016-04-24 Album
-date: 2016-04-24
 categories:
  - launch
 tags:

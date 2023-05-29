@@ -1,6 +1,5 @@
 ---
 title: 2007-09-30 Album
-date: 2007-09-30
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2013-06-09 Album
-date: 2013-06-09
 categories:
  - launch
 tags:

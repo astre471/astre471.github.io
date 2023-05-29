@@ -1,6 +1,5 @@
 ---
 title: 2020-06-13 Album
-date: 2020-06-13
 categories:
  - launch
 tags:

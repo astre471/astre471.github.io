@@ -1,6 +1,5 @@
 ---
 title: 2022-09-17 Album
-date: 2022-09-17
 categories:
  - launch
 tags:

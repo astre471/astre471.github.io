@@ -1,6 +1,5 @@
 ---
 title: 2003-05-16 Album
-date: 2003-05-16
 categories:
  - launch
 tags:

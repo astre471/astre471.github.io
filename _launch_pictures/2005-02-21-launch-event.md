@@ -1,6 +1,5 @@
 ---
 title: 2005-02-21 Album
-date: 2005-02-21
 categories:
  - launch
 tags:

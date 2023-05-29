@@ -1,6 +1,5 @@
 ---
 title: 2009-12-05 Album
-date: 2009-12-05
 categories:
  - launch
 tags:

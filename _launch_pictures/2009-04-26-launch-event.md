@@ -1,6 +1,5 @@
 ---
 title: 2009-04-26 Album
-date: 2009-04-26
 categories:
  - launch
 tags:

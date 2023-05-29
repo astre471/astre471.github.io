@@ -1,6 +1,5 @@
 ---
 title: 2009-07-11 Album
-date: 2009-07-11
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2014-07-20 Album
-date: 2014-07-20
 categories:
  - launch
 tags:

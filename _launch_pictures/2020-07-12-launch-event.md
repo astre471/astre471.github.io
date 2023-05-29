@@ -1,6 +1,5 @@
 ---
 title: 2020-07-12 Album
-date: 2020-07-12
 categories:
  - launch
 tags:

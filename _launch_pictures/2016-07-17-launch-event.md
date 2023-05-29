@@ -1,6 +1,5 @@
 ---
 title: 2016-07-17 Album
-date: 2016-07-17
 categories:
  - launch
 tags:

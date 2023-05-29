@@ -1,6 +1,5 @@
 ---
 title: 2008-06-28 Album
-date: 2008-06-28
 categories:
  - launch
 tags:

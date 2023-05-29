@@ -1,6 +1,5 @@
 ---
 title: 2019-09-21 Album
-date: 2019-09-21
 categories:
  - launch
 tags:

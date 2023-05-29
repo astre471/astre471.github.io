@@ -1,6 +1,5 @@
 ---
 title: 2021-06-12 Album
-date: 2021-06-12
 categories:
  - launch
 tags:

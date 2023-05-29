@@ -1,6 +1,5 @@
 ---
 title: 2009-11-01 Album
-date: 2009-11-01
 categories:
  - launch
 tags:

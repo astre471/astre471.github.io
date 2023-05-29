@@ -1,6 +1,5 @@
 ---
 title: 2022-05-14 Album
-date: 2022-05-14
 categories:
  - launch
  - launch-pictures

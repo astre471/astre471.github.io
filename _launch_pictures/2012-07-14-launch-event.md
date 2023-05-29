@@ -1,6 +1,5 @@
 ---
 title: 2012-07-14 Album
-date: 2012-07-14
 categories:
  - launch
 tags:

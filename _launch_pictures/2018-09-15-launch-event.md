@@ -1,6 +1,5 @@
 ---
 title: 2018-09-15 Album
-date: 2018-09-15
 categories:
  - launch
 tags:

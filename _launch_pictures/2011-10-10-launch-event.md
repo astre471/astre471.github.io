@@ -1,6 +1,5 @@
 ---
 title: 2011-10-10 Album
-date: 2011-10-10
 categories:
  - launch
 tags:

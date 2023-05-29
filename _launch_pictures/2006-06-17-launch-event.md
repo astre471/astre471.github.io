@@ -1,6 +1,5 @@
 ---
 title: 2006-06-17 Album
-date: 2006-06-17
 categories:
  - launch
 tags:

@@ -1,6 +1,5 @@
 ---
 title: 2015-07-25 Album
-date: 2015-07-25
 categories:
  - launch
 tags:

@@ -25,10 +25,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          lfs: true
+      # Cache LFS files between runs to avoid GitHub.com cost overruns
+      - name: Checkout code
+        uses: nschloe/action-cached-lfs-checkout@main
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
@@ -39,7 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
-  # Deployment job
+  # Deploy pages site
   deploy:
     environment:
       name: github-pages

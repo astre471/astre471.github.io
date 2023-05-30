@@ -19,6 +19,8 @@ your model rocket skills and designs.  There are a couple launches per year spon
 
 If you're interested in attending a launch, [join today]({{ site.baseurl }}/join/)!  Only ASTRE members or their guests can attend launches.
 
+> :warning: Due to launch site parking restrictions, launches are **not** currently open to outside spectators. Sorry!
+
 If you are a member and wish to invite non-members as guests for a particular launch, 
 send a request to [info@astre471.org](mailto:info@astre471.org) at least 5 days before the launch.
 

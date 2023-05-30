@@ -5,14 +5,14 @@ permalink: /contacts/
 
 ## Officers
 
-| Role                           | Person            |
-|--------------------------------|-------------------|
-| ASTRE President                |  Alex DeMarco     |
-| ASTRE Vice-President           |  Bob Drosdick     |
-| ASTRE Senior Advisor           |  Jeff Vincent     |
-| ASTRE Treasurer                |  Ray Bedard       |
-| ASTRE Member-at-Large          |  Vince Giovanonne |
-| ASTRE Secretary & Website Lead |  Mark Strasser    |
+| Role                              | Person            |
+|-----------------------------------|-------------------|
+| ASTRE President                   |  Alex DeMarco     |
+| ASTRE Vice-President              |  Bob Drosdick     |
+| ASTRE Senior Advisor              |  Jeff Vincent     |
+| ASTRE Treasurer & Website Co-Lead |  Ray Bedard       |
+| ASTRE Member-at-Large             |  Vince Giovanonne |
+| ASTRE Secretary & Website Co-Lead |  Mark Strasser    |
 
 ## Contact an Officer
 

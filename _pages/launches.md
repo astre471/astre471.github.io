@@ -4,7 +4,7 @@ title: "Launches"
 toc: true
 ---
 
-ASTRE conducts about 5-6 launches per year - see below for the schedule.
+ASTRE conducts about 6 launches per year - see the [main page](/) for the schedule.
 
 New to rocketeering?  See what [items we recommend]({{ site.baseurl }}/launches/what-to-bring) to bring to a launch.
 

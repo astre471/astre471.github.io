@@ -1,7 +1,8 @@
 ---
-title: 2010-07-D2 Album
+title: 2010-07-24 Day 2 Album
 categories:
  - launch
+ - seminar
 tags:
  - pictures
 gallery:

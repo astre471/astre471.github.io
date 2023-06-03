@@ -5,14 +5,14 @@ permalink: /contacts/
 
 ## Officers
 
-| Role                       | Person            |
-|----------------------------|-------------------|
-| ASTRE President            |  Chuck Weiss      |
-| ASTRE Vice-President       |  John Sicker      |
-| ASTRE Senior Advisor       |  Jeff Vincent     |
-| ASTRE Secretary/Treasurer  |  Ray Bedard       |
-| ASTRE Member-at-Large      |  Vince Giovanonne |
-| ASTRE WEB page issues      |  Web-RayB         |
+| Role                              | Person            |
+|-----------------------------------|-------------------|
+| ASTRE President                   |  Alex DeMarco     |
+| ASTRE Vice-President              |  Bob Drosdick     |
+| ASTRE Senior Advisor              |  Jeff Vincent     |
+| ASTRE Treasurer & Website Co-Lead |  Ray Bedard       |
+| ASTRE Member-at-Large             |  Vince Giovanonne |
+| ASTRE Secretary & Website Co-Lead |  Mark Strasser    |
 
 ## Contact an Officer
 

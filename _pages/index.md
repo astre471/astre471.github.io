@@ -57,5 +57,24 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
+## Launch Schedule - 2023
+
+> :warning: This is a TENTATIVE schedule.  All dates will be confirmed prior to launch via the [email list group](launches/#email-group).
+
+All launches are from a new location: [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
+
+See [Launches](launches/) for how to sign up for Go/No Go email notifications, site limits on rocket motors, and more.
+
+| **Month**   |  **Date** 	| **Rain Date** 	| **Hours**   |
+|:---------:  |:---------:	|:-------------:	|:---------:  |
+|       May   | Sat 5/20    | Sat 5/27        | 1pm - 5pm   |
+|      June   | Sat 6/18    | Sat 6/24        | 1pm - 5pm   |
+|      July   | Sat 7/8     | Sat 7/15        | 1pm - 5pm   |
+|    August   | Sat 8/12    | Sat 8/19        | 1pm - 5pm   |
+| September   | Sat 9/16    | Sat 9/23        | 1pm - 5pm   |
+|   October   | Sat 10/14   | Sat 10/21       | 1pm - 5pm   |
+
+## Categories
+
 {% include feature_row %}
 

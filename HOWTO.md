@@ -20,8 +20,8 @@ Here are some general guidelines to follow when making changes.
 
 ### Create a branch when making a change
 The website is published from the `main` branch, which is considered "production". The `main` branch 
-is the only "long-lived" permanent branch, and should generally be used to create small fix or feature 
-branches. Read more about Git branches [here](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
+is the only "long-lived" permanent branch.  Temporary branches should be created from `main`, and used for fixes or feature 
+changes. Read more about Git branches [here](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
 
 A branch allows isolation of the change while its being finalized and tested. So if you're working 
 on a big change but haven't completed it yet, you can make a critical fix on a separate branch and

@@ -5,14 +5,14 @@ Guide on how to do common tasks on this website.
 ## Table of Contents
 
 1. Guidelines
-  - [Create a branch when making a change](#create-a-branch-when-making-a-change)
-  - [Create a Pull Request and get reviews](#create-a-pull-request-and-get-reviews)
-  - [Where to edit files](#where-to-edit-files)
-  - [Changes are automatically deployed when merged](#changes-are-automatically-deployed-when-merged)
+    - [Create a branch when making a change](#create-a-branch-when-making-a-change)
+    - [Create a Pull Request and get reviews](#create-a-pull-request-and-get-reviews)
+    - [Where to edit files](#where-to-edit-files)
+    - [Changes are automatically deployed when merged](#changes-are-automatically-deployed-when-merged)
 2. Tasks
-  - [Update the launch calendar](#update-the-launch-calendar)
-  - [Post a Go/No Go decision](#post-a-go-no-go-decision)
-  - [Upload photos from a launch](#upload-photos-from-a-launch)
+    - [Update the launch calendar](#update-the-launch-calendar)
+    - [Post a Go/No Go decision](#post-a-go-no-go-decision)
+    - [Upload photos from a launch](#upload-photos-from-a-launch)
 ---
 
 ## Guidelines

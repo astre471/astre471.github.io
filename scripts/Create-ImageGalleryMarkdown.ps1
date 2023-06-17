@@ -2,10 +2,17 @@
 #
 # Usage:
 # 1. Open Powershell (any windows 10 or later computer will have it, or it can be downloaded and installed on Windows or Linux)
-# 2. Create the image gallery folder and copy image jpgs into it.
+#    Windows+R to open Run dialog > type Powershell and hit Enter
+#
+# 2. Create the image gallery folder and copy image jpgs into it. The image files should already be at "web" sizes of less than 1 MB per image.
+#     PS> mkdir assets\images\galleries\2099-01-01
+#
 # 3. Run this script from the *root* of this repository, passing the image gallery folder path:
-#     PS> .\create-gallery-markdown.ps1 -ImageDirectory assets\images\galleries\2020-05-30 -ImageGalleryBaseName 2020-05-30
-# 4. Copy the resulting markdown file into the right directory.
+#     PS> .\scripts\Create-ImageGalleryMarkdown.ps1 -ImageDirectory assets\images\galleries\2099-01-01 -ImageGalleryBaseName 2099-01-01
+#
+# 4. The markdown file is generated in the default _launch_pictures location.  Add the file and all images, commit the changes, and push to the 
+#    GitHub.com repository, and creat a Pull Request.
+ 
 
 [CmdletBinding()]
 param (

@@ -27,7 +27,7 @@ A branch allows isolation of the change while its being finalized and tested. So
 on a big change but haven't completed it yet, you can make a critical fix on a separate branch and
 merge it - *without* having to worry about testing or undoing that big change.
 
-Your first step should be to make a branch when committing any changes.
+Your first step - prior to making or committing any changes - should be to make a new branch.
 
 ### Create a Pull Request and get reviews
 Reviews make sure things look right - or at least that people understand what's going on.

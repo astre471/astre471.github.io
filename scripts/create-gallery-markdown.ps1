@@ -60,8 +60,13 @@ foreach ($imagePath in $imagePaths) {
 }
 
 # write the file
-$galleryMarkdownFile = "($OutputMarkdownDirectory)/($galleryName)-launch-event.md"
-Write-Output "---`ntitle: $galleryName Album`ncategories:`n - launch`ntags:`n - pictures" | Out-File -FilePath $galleryMarkdownFile
-Write-Output $galleryYaml | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output "---`n" | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output "{% include gallery layout=`"third`" caption=`"$galleryName`" %}" | Out-File -Append -FilePath $galleryMarkdownFile
+$galleryMarkdownFile = "($OutputMarkdownDirectory)/($ImageGalleryBaseName)-launch-event.md"
+Write-Output "---`n"                       | Out-File -FilePath $galleryMarkdownFile
+Write-Output "title: $galleryName Album`n" | Out-File -Append -FilePath $galleryMarkdownFil
+Write-Output "categories:`n"               | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output " - launch`n"                 | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "tags:`n"                     | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output " - pictures`n"               | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output $galleryYaml                  | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "---`n"                       | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "{% include gallery layout=`"third`" caption=`"$ImageGalleryBaseName`" %}" | Out-File -Append -FilePath $galleryMarkdownFile

@@ -23,9 +23,9 @@ The website is published from the `main` branch, which is considered "production
 is the only "long-lived" permanent branch.  Temporary branches should be created from `main`, and used for fixes or feature 
 changes. Read more about Git branches [here](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
 
-A branch allows isolation of the change while its being finalized and tested. So if you're working 
-on a big change but haven't completed it yet, you can make a critical fix on a separate branch and
-merge it - *without* having to worry about testing or undoing that big change.
+A branch enables isolation of the change while its being worked on. So if you're working on a big change but haven't 
+completed it yet, you can still make a critical fix on a separate branch and merge it - *without* having to worry 
+about finishing the change or undoing it.
 
 Your first step - prior to making or committing any changes - should be to make a new branch.
 

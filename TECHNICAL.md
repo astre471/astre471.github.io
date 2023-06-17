@@ -5,7 +5,7 @@
  * GitHub LFS for large image files ($4/month for personal membership)
  * Free Jekyll Theme that supports GitHub Pages : https://github.com/mmistakes/minimal-mistakes
  * Other Jekyll themes that support GitHub Pages [shown here](https://jekyllthemes.io/github-pages-themes)
- * Future DNS through ??? company for domain name `astre471.org`
+ * Future DNS through [NameCheap](https://www.namecheap.com/) for domain name `astre471.org`
 
 # Objectives
  * Ideally would like drop down menu

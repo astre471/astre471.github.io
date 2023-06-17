@@ -4,13 +4,13 @@
 # 1. Open Powershell (any windows 10 or later computer will have it, or it can be downloaded and installed on Windows or Linux)
 # 2. Create the image gallery folder and copy image jpgs into it.
 # 3. Run this script from the *root* of this repository, passing the image gallery folder path:
-#     PS> .\create-gallery-markdown.ps1 -ImageGalleryDirectory assets\images\galleries\2020-05-30 -ImageGalleryBaseName 2020-05-30
+#     PS> .\create-gallery-markdown.ps1 -ImageDirectory assets\images\galleries\2020-05-30 -ImageGalleryBaseName 2020-05-30
 # 4. Copy the resulting markdown file into the right directory.
 
 [CmdletBinding()]
 param (
     [Parameter(Mandatory)]
-    [string] $ImageGalleryDirectory,
+    [string] $ImageDirectory,
     
     [Parameter(Mandatory)]
     [string] $ImageGalleryBaseName,  
@@ -21,20 +21,19 @@ param (
 
 $ErrorActionPreference = "stop"
 
-# get all image files
-$galleryImages = Get-ChildItem -Path $subdirPath -File -Name
+# list all non-thumbnail image files
+$galleryImages = Get-ChildItem -Path $ImageDirectory -File -Name
     | Sort-Object `
     | Where-Object { ! ($_.Contains("_tn_")) }
-    | ForEach-Object { Join-Path $subdirPath $_ }
+    | ForEach-Object { Join-Path $ImageDirectory $_ }
     
-
 # list each image and its thumbnail in the 'gallery' section of the YAML frontmatter
 $galleryYaml = "gallery:`n"
-    
-$total = $imagePaths.Length
-$count = 0
 
-foreach ($imagePath in $imagePaths) {
+$count = 0
+$total = $galleryImages.Length
+
+foreach ($imagePath in $galleryImages) {
     $count += 1
 
     # find thumbnail image using convention
@@ -60,13 +59,15 @@ foreach ($imagePath in $imagePaths) {
 }
 
 # write the file
-$galleryMarkdownFile = "($OutputMarkdownDirectory)/($ImageGalleryBaseName)-launch-event.md"
-Write-Output "---`n"                       | Out-File -FilePath $galleryMarkdownFile
-Write-Output "title: $galleryName Album`n" | Out-File -Append -FilePath $galleryMarkdownFil
-Write-Output "categories:`n"               | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output " - launch`n"                 | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output "tags:`n"                     | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output " - pictures`n"               | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output $galleryYaml                  | Out-File -Append -FilePath $galleryMarkdownFile
-Write-Output "---`n"                       | Out-File -Append -FilePath $galleryMarkdownFile
+$galleryMarkdownFile = "$OutputMarkdownDirectory/$ImageGalleryBaseName-launch-event.md"
+Write-Output "---"                                | Out-File -FilePath $galleryMarkdownFile
+Write-Output "title: $ImageGalleryBaseName Album ($($galleryImages.Length) images)" | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "categories:"                        | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output " - launch"                          | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "tags:"                              | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output " - pictures"                        | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output $galleryYaml                         | Out-File -Append -FilePath $galleryMarkdownFile
+Write-Output "---"                                | Out-File -Append -FilePath $galleryMarkdownFile
 Write-Output "{% include gallery layout=`"third`" caption=`"$ImageGalleryBaseName`" %}" | Out-File -Append -FilePath $galleryMarkdownFile
+
+Write-Output "Finished writing $galleryMarkdownFile based on $($galleryImages.Length) images in $ImageDirectory"

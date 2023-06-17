@@ -52,7 +52,9 @@ repository to your local computer, make changes, test them out, then finally com
 to do the clone - download it [here](https://desktop.github.com/).  For making the changes, Microsoft VSCode is a free
 and popular editor - you can download it [here](https://code.visualstudio.com/download).
 
-Testing the website locally can be accomplished by installing Ruby and the Jekyll package for Ruby.
+Testing the website locally can be accomplished by installing Ruby and the Jekyll package for Ruby.  See the 
+[GitHub docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekylltesting-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
+on how to build and test using Jekyll locally.
 
 ### Changes are automatically deployed when merged
 When changes are merged to the `main` branch, the GitHub Actions workflow automatically kicks in and uploads / updates the

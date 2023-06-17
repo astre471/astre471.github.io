@@ -57,9 +57,9 @@ Testing the website locally can be accomplished by installing Ruby and the Jekyl
 on how to build and test using Jekyll locally.
 
 ### Changes are automatically deployed when merged
-When changes are merged to the `main` branch, the GitHub Actions workflow automatically kicks in and uploads / updates the
-website.  You can see the progress of the upload via the `Actions` tab under this repository. The job takes about 15 minutes
-to complete.
+When changes are merged to the `main` branch, the [GitHub Actions](https://github.com/astre471/astre471.github.io/actions) workflow 
+automatically kicks in and uploads / updates the website.  You can see the progress of the upload via the `Actions` tab under this
+repository. The job takes about 15 minutes to complete.  Any errors are showin the [`Actions`](https://github.com/astre471/astre471.github.io/actions) tab.
 
 ---
 

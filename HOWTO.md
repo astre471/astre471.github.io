@@ -92,9 +92,16 @@ After a launch is complete, we like to post photos online for members to share.
    You can use [GitHub Desktop](https://desktop.github.com/) to clone the repository, and [VSCode](https://code.visualstudio.com/download)
    to edit text files.
 
-2. Create a new directory under `_launch_pictures` with the date on it.
-3. Copy each image and its thumbnail into the new directory.  The expected image format is `yyyy-mm-dd-index.jpg` and `yyyy-mm-dd-index_tn.jpg`.
-4. Run the powershell script `TODO.ps1` to create a Markdown file in the new directory. Update the name in 
-   the YAML frontmatter (first section in the file, starting and ending with `---`).
-6. Create a branch via GitHub Desktop.  Add the modified image files and new MarkDown file.
-7. Push the branch up to GitHub.com and create a Pull Request.
+2. Create a new directory under `assets/images/galleries` with the date in `yyyy-mm-dd` (year-month-day) name format.
+
+3. Copy each image and its thumbnail into the new directory.  The expected image format is `ii_yy-mm-dd.jpg` (index_year-month-day) and `ii_TN_yy-mm-dd.jpg`.
+ 
+4. Run the powershell script [`scripts\Create-ImageGalleryMarkdown.ps1`](scripts\Create-ImageGalleryMarkdown.ps1) in PowerShell to create a Markdown (.md)
+   file under `_launch_pictures`.
+   
+5. Create a branch via GitHub Desktop.  Then, still in GitHub Desktop, add the new image files (including thumbnails) and new MarkDown file, and commit.
+
+6. Push the branch up to GitHub.com and create a Pull Request.
+
+7. Once all comments are addressed, merge the Pull Request.  The changes will be shown in the website after deployment.  If the changes
+   break something, you will see a red X next to the Pull Request.

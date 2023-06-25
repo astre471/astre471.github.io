@@ -23,6 +23,20 @@ Links to National Association of Rocketry resources.
  * [NAR Competition Homepage](http://www.nar.org/Competition/) - Information on NAR competitions
  * [NAR 'Pink Book' Competition rulebook 2014](http://nar.org/pdf/pinkbook.pdf) for reference
 
+## Vendors
+Looking to buy model rocket kits or engines?  Here's where we buy from.
+
+ * [Adirondack Train and Hobby](https://www.adirondackhobby.com) - *local* store, great for last-minute purchases on the way to the launch site!  Open Saturdays.
+   946 Route, 29 Saratoga Springs, NY 12866
+
+ * [Apogee Rockets](https://www.apogeerockets.com/) - great store to buy composite motors and more advanced rocket kits!  Great videos on 
+   [introduction to Rocketry](https://www.apogeerockets.com/New-to-Model-Rocketry?m=quickmenu) under the `How To & Guides` section.
+
+ * [Estes Rockets](https://estesrockets.com/) - the one and only!  Makes many rocket kits for all skill levels, Beginner through Pro.
+
+ * [Hobbylinc](https://www.hobbylinc.com/) - online retailer, can purchase rocket motors in bulk.  Great selection and prices!
+
+ * [Hobby Lobby](https://www.hobbylobby.com/) - local stores in Latham and other areas.  Limited rocket selection, can find some good deals!
 
 ## Archive
 Older links, but they still check out.

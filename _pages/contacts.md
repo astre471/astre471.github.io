@@ -24,8 +24,4 @@ of an email then send to:
 Eliminate the spaces and replace `AT` with  `@`. (Trying to reduce SPAM)
 
 This email is monitored daily and the email will be forwarded 
-to the correct individual. Thanks!
-
----
-
-Last updated: April 23, 2021
+to the correct individual.

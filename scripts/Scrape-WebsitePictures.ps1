@@ -1,5 +1,5 @@
 #
-# Temporary script to download photos and thumbnails from the old website
+# Script to download photos and thumbnails from the old website
 # to local disk.
 #
 # 1. List all "albums" at https://www.astre471.org/Pictures/

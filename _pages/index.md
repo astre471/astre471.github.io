@@ -57,24 +57,40 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-## Launch Schedule - 2023
-
-> :warning: This is a TENTATIVE schedule.  All dates will be confirmed prior to launch via the [email list group](launches/#email-group).
-
-All launches are from a new location: [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
-
-See [Launches](launches/) for how to sign up for Go/No Go email notifications, site limits on rocket motors, and more.
+## Launch: Go / No Go Status
 
 > ❗June launches are CANCELLED due to weather and staff availability.  See you in July!
 
-| **Month**   |  **Date** 	| **Rain Date** 	| **Hours**   | **Status**                                      |  
-|:---------:  |:---------:	|:-------------:	|:---------:  | :---------:                                     |
-|       May   | Sat 5/20    | Sat 5/27        | 1pm - 5pm   | -                                               |
-|      ~June~ | ~Sat 6/17~  | ~Sat 6/24~      | ~1pm - 5pm~ | CANCELLED due to weather and staff availability |
-|      July   | Sat 7/8     | Sat 7/15        | 1pm - 5pm   |                                                 |
-|    August   | Sat 8/12    | Sat 8/19        | 1pm - 5pm   |                                                 |
-| September   | Sat 9/16    | Sat 9/23        | 1pm - 5pm   |                                                 |
-|   October   | Sat 10/14   | Sat 10/21       | 1pm - 5pm   |                                                 |
+<p style="color: red"><b>June 17 Launch:</b> NO GO</p>
+
+<p style="color: red"><b>June 24 Launch:</b> NO GO</p>
+
+## Launches - 2023
+
+> :warning: This is a TENTATIVE schedule.  All dates will be confirmed prior to launch via the [email list group](#email-group).
+
+All launches are from a new location for 2023: [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
+
+See [Launches](launches/) for site limits on rocket motors and more information.  
+
+Launches are only open to ASTRE members, so [join today](join/)!
+
+| **Month**   |  **Date**    | **Rain Date (only if primary date is canceled)** | **Hours**     | **Status**                                      |  
+|:---------:  |:---------:   |:-------------:                                   |:---------:    | :---------:                                     |
+|       May   | Sat 5/20     | Sat 5/27                                         | 1pm - 5pm     | -                                               |
+|    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | CANCELLED due to weather and staff availability |
+|      July   | Sat 7/8      | Sat 7/15                                         | 1pm - 5pm     |                                                 |
+|    August   | Sat 8/12     | Sat 8/19                                         | 1pm - 5pm     |                                                 |
+| September   | Sat 9/16     | Sat 9/23                                         | 1pm - 5pm     |                                                 |
+|   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     |                                                 |
+
+## Email Group
+
+Club activities (holiday luncheons, go/no go for launches, etc.) are planned and discussed through the email group
+[`groups.io/g/astre471`](https://groups.io/g/astre471).
+
+To join, send an email to [astre471+subscribe@groups.io](mailto:astre471+subscribe@groups.io).  Instructions on how to 
+join will be sent via email.  A moderator must approve each new member, so there may be a delay in approval.
 
 ## Categories
 

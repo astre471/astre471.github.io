@@ -55,12 +55,3 @@ The Rain Date Launch is *only* held if the primary date is canceled.
 
 🚀 The Final [-Go-] / [-NoGo-] Status will be shared on the groups.io mailing list
 and posted on this site the evening before the event, usually before 8 PM.
-
-## Email Group
-
-Join the [`groups.io/g/astre471`](https://groups.io/g/astre471) group by sending an email to [astre471+subscribe@groups.io](mailto:astre471+subscribe@groups.io).
-Instructions on how to join will be sent to your email.  See [https://groups.io/g/astre471](https://groups.io/g/astre471) for details.  There may be a delay
-in joining, as the group moderator must approve new members.
-
-Club activities (holiday luncheons, go/no go for launches, etc.) will be planned and discussed via `groups.io/astre471`.  See also the
-[Posts]({{ site.baseurl }}/posts/) section on this website.

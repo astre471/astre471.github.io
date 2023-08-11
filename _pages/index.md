@@ -59,7 +59,7 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-<p style="color: green"><b>July 8 Launch:</b>GO!</p>
+### August 12 Launch: POSTPONED due to weather - will try for the raindate!
 
 ## Launches - 2023
 
@@ -74,9 +74,9 @@ Launches are only open to ASTRE members, so [join today](join/)!
 | **Month**   |  **Date**    | **Rain Date (only if primary date is canceled)** | **Hours**     | **Status**                                      |  
 |:---------:  |:---------:   |:-------------:                                   |:---------:    | :---------:                                     |
 |       May   | Sat 5/20     | Sat 5/27                                         | 1pm - 5pm     | -                                               |
-|    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | CANCELLED due to weather and staff availability |
-|      July   | Sat 7/8      | ~~Sat 7/15~~                                     | 1pm - 5pm     | GO for July 8!                                  |
-|    August   | Sat 8/12     | Sat 8/19                                         | 1pm - 5pm     |                                                 |
+|    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | -                                               |
+|      July   | Sat 7/8      | ~~Sat 7/15~~                                     | 1pm - 5pm     |                                                 |
+|    August   | ~~Sat 8/12~~ | Sat 8/19                                         | 1pm - 5pm     | POSTPONED for August 12 due to weather          |
 | September   | Sat 9/16     | Sat 9/23                                         | 1pm - 5pm     |                                                 |
 |   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     |                                                 |
 

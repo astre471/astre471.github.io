@@ -59,9 +59,9 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### September 16 Launch: POSTPONED
+### September 23 Launch: GO!
 
-The Sep 16 launch is POSTPONED due to windy conditions. We'll try again on September 23!
+The Sep 23 launch is GO FOR LAUNCH!  See you on the field!
 
 ## Launches - 2023
 
@@ -79,7 +79,7 @@ Launches are only open to ASTRE members, so [join today](join/)!
 |    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | -                                               |
 |      July   | Sat 7/8      | ~~Sat 7/15~~                                     | 1pm - 5pm     |                                                 |
 |    August   | ~~Sat 8/12~~ | Sat 8/19                                         | 1pm - 5pm     |                                                 |
-| September   | ~~Sat 9/16~~ | Sat 9/23                                         | 1pm - 5pm     | POSTPONED - check in again for rain date 9/23   |
+| September   | ~~Sat 9/16~~ | Sat 9/23                                         | 1pm - 5pm     | GO for 9/23                                     |
 |   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     |                                                 |
 
 ## Email Group

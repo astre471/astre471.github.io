@@ -59,9 +59,9 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### September 23 Launch: GO!
+### October 14 Launch: GO!
 
-The Sep 23 launch is GO FOR LAUNCH!  See you on the field!
+The Saturday Oct 14 launch is a GO FOR LAUNCH!  See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm.
 
 ## Launches - 2023
 
@@ -79,8 +79,8 @@ Launches are only open to ASTRE members, so [join today](join/)!
 |    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | -                                               |
 |      July   | Sat 7/8      | ~~Sat 7/15~~                                     | 1pm - 5pm     |                                                 |
 |    August   | ~~Sat 8/12~~ | Sat 8/19                                         | 1pm - 5pm     |                                                 |
-| September   | ~~Sat 9/16~~ | Sat 9/23                                         | 1pm - 5pm     | GO for 9/23                                     |
-|   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     |                                                 |
+| September   | ~~Sat 9/16~~ | Sat 9/23                                         | 1pm - 5pm     |                                                 |
+|   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     | Go for LAUNCH                                   |
 
 ## Email Group
 

@@ -6,7 +6,7 @@ toc: true
 
 ASTRE conducts about 6 launches per year - see the [main page](/) for the schedule.
 
-New to rocketeering?  See what [items we recommend]({{ site.baseurl }}/launches/what-to-bring) to bring to a launch.
+New to rocketeering?  See what [items we recommend]({{ site.url }}/launches/what-to-bring) to bring to a launch.
 
 # Competition/Sport Launches
 
@@ -17,7 +17,7 @@ your model rocket skills and designs.  There are a couple launches per year spon
 
 ## Membership Required to Attend
 
-If you're interested in attending a launch, [join today]({{ site.baseurl }}/join/)!  Only ASTRE members or their guests can attend launches.
+If you're interested in attending a launch, [join today]({{ site.url }}/join/)!  Only ASTRE members or their guests can attend launches.
 
 > :warning: Due to launch site parking restrictions, launches are **not** currently open to outside spectators. Sorry!
 

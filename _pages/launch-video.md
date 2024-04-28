@@ -12,7 +12,7 @@ permalink: /launch-video/
   https://techstacker.com/how-to-embed-mp4-video-html5-with-controls/
 -->
 <video width=400 controls autoplay>
-  <source src="{{ site.baseurl }}/assets/videos/launch-video-2022.mp4" type="video/mp4" />
+  <source src="{{ site.url }}/assets/videos/launch-video-2022.mp4" type="video/mp4" />
   This video requires an HTML5-compatible browser.
 </video>
 *Above:* Video captured of a 2022 launch of the Estes Red Flare rocket with `E` size engine.

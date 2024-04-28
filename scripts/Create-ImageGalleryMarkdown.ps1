@@ -58,6 +58,14 @@ foreach ($imagePath in $galleryImages) {
     # (could generate thumbnail using powershell, see https://mohundro.com/blog/2008/10/11/simple-powershell-script-to-generate-thumbnails)
     $imageThumbnailPath = $imagePath -replace '/([0-9]+)_', '/$1_tn_'
 
+    # remove leading "./" 
+    if ($imageThumbnailPath.StartsWith("./")) {
+        $imageThumbNailPath = $imageThumbNailPath.Substring(2)
+    }
+    if ($imagePath.StartsWith("./")) {
+        $imagePath = $imagePath.Substring(2)
+    }
+
     # append to string
     $galleryYaml += " - url: `"$imagePath`"`n"
     $galleryYaml += "   image_path: `"$imageThumbnailPath`"`n"

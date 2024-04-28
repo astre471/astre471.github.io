@@ -1,5 +1,5 @@
 ---
-title: 2022-06-25 Album
+title: 2022-06-25 Album (36 images)
 categories:
  - launch
 tags:

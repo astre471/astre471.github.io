@@ -1,1 +1,1 @@
-Copyright (c) 2022 | [ASTRE : Albany - Schenectady - Troy Rocket Enthusiasts](https://astre471.org)
+Copyright (c) 2024 | [ASTRE : Albany - Schenectady - Troy Rocket Enthusiasts](https://astre471.org)

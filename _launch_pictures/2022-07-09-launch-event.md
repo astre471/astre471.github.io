@@ -1,5 +1,5 @@
 ---
-title: 2022-07-09 Album
+title: 2022-07-09 Album (36 images)
 categories:
  - launch
 tags:

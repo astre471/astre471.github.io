@@ -3,7 +3,7 @@ title: Join ASTRE
 permalink: /join/
 ---
 
-To become a member, [print this membership application]({{ site.baseurl }}/join/application) and fill it out, 
+To become a member, [print this membership application]({{ site.url }}/join/application) and fill it out, 
 and mail the application (address is on the form), or bring to the next launch date.
 
 Dues are:

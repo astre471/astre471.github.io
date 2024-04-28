@@ -63,24 +63,24 @@ feature_row:
 
 The Saturday Oct 14 launch is a GO FOR LAUNCH!  See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm.
 
-## Launches - 2023
+## Launches - 2024
 
 > :warning: This is a TENTATIVE schedule.  All dates will be confirmed prior to launch via the [email list group](#email-group).
 
-All launches are from a new location for 2023: [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
+All launches are from [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
 
 See [Launches](launches/) for site limits on rocket motors and more information.  
 
 Launches are only open to ASTRE members, so [join today](join/)!
 
-| **Month**   |  **Date**    | **Rain Date (only if primary date is canceled)** | **Hours**     | **Status**                                      |  
-|:---------:  |:---------:   |:-------------:                                   |:---------:    | :---------:                                     |
-|       May   | Sat 5/20     | Sat 5/27                                         | 1pm - 5pm     | -                                               |
-|    ~~June~~ | ~~Sat 6/17~~ | ~~Sat 6/24~~                                     | ~~1pm - 5pm~~ | -                                               |
-|      July   | Sat 7/8      | ~~Sat 7/15~~                                     | 1pm - 5pm     |                                                 |
-|    August   | ~~Sat 8/12~~ | Sat 8/19                                         | 1pm - 5pm     |                                                 |
-| September   | ~~Sat 9/16~~ | Sat 9/23                                         | 1pm - 5pm     |                                                 |
-|   October   | Sat 10/14    | Sat 10/21                                        | 1pm - 5pm     | Go for LAUNCH                                   |
+| **Date**              | **Rain Date (only if primary date is canceled)** | **Hours**     |   
+|:---------:            |:---------:                                       |:-------------:|
+| Saturday May 18       | Saturday May 25                                  | 1pm - 5pm     |
+| Saturday June 22      | Saturday June 29                                 | 1pm - 5pm     |
+| Saturday July 13      | Saturday July 20                                 | 1pm - 5pm     |
+| Saturday August 10    | Saturday Aug 17                                  | 1pm - 5pm     |
+| Saturday September 14 | Saturday September 21                            | 1pm - 5pm     |
+| Saturday October 12   | Saturday October 19                              | 1pm - 5pm     |
 
 ## Email Group
 

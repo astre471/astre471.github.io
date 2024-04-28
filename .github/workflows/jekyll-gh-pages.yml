@@ -27,7 +27,7 @@ jobs:
     steps:
       # Cache LFS files between runs to avoid GitHub.com cost overruns
       - name: Checkout code
-        uses: nschloe/action-cached-lfs-checkout@main
+        uses: astre471/action-cached-lfs-checkout@main
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

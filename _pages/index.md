@@ -59,9 +59,11 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### October 14 Launch: GO!
+### May 18 2024 Launch: TBD
 
-The Saturday Oct 14 launch is a GO FOR LAUNCH!  See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm.
+The Saturday May 18 launch status is To Be Determined (TBD).  Please check this page or the email group for status the day before the launch.
+
+<!-- See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm! -->
 
 ## Launches - 2024
 

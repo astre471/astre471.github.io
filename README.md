@@ -26,5 +26,7 @@ Make changes by clicking the link below and then editing the file.
  2. Create a directory under `assets/images/galleries/yyyy-mm-dd` and copy all images (including thumbnails)
     to that directory.
      - Example: `2023-09-17`
- 4. Generate a markdown file named `yyyy-mm-dd-launch-event.md` (example: `2023-09-17-launch-event.md`) with references to each image under `_launch_pictures`.
- 5. Add and commit all files using GitHub Desktop.
+ 4. Run the PowerShell script [`Create-ImageGalleryMarkdown.ps1`](https://github.com/astre471/astre471.github.io/blob/main/scripts/Create-ImageGalleryMarkdown.ps1) to create a a markdown file
+    named `yyyy-mm-dd-launch-event.md` with references to each image under `_launch_pictures`.
+     - Example: `_launch_pictures/2023-09-17-launch-event.md`
+ 6. Add and commit all files using GitHub Desktop.

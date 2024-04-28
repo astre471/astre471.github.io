@@ -1,5 +1,5 @@
 ---
-title: 2022-09-17 Album
+title: 2022-09-17 Album (40 images)
 categories:
  - launch
 tags:

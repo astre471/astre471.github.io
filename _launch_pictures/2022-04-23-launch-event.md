@@ -1,5 +1,5 @@
 ---
-title: 2022-04-23 Album
+title: 2022-04-23 Album (41 images)
 categories:
  - launch
 tags:

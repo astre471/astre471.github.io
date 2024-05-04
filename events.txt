@@ -1,0 +1,13 @@
+Name,StartDateTime,DurationHMS,Description
+"ASTRE Rocket Launch 1",2024-05-18 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 1 - Rain Date",2024-05-25 13:00:00,4:00:00,"Rain Date - see https://astre471.org"
+"ASTRE Rocket Launch 2",2024-06-22 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 2 - Rain Date",2024-06-29 13:00:00,4:00:00,"Rain Date - see https://astre471.org"
+"ASTRE Rocket Launch 3",2024-07-13 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 3 - Rain Date",2024-07-20 13:00:00,4:00:00,"Rain Date - see https://astre471.org"
+"ASTRE Rocket Launch 4",2024-08-10 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 4 - Rain Date",2024-08-17 13:00:00,4:00:00,"Rain Date - see https://astre471.org"
+"ASTRE Rocket Launch 5",2024-09-14 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 5 - Rain Date",2024-09-21 13:00:00,4:00:00,"Rain Date - see https://astre471.org"
+"ASTRE Rocket Launch 6",2024-10-12 13:00:00,4:00:00,"Primary Date - see https://astre471.org"
+"ASTRE Rocket Launch 6 - Rain Date",2024-10-19 13:00:00,4:00:00,"Rain Date - see https://astre471.org"

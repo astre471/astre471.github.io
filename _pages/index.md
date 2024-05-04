@@ -75,11 +75,11 @@ See [Launches](launches/) for site limits on rocket motors and more information.
 
 Launches are only open to ASTRE members, so [join today](join/)!
 
-| **Date**      | **Rain Date (only if primary date is canceled)** | **Hours**     |
-|:-------------:|:------------------------------------------------:|:-------------:|
-| Sat May 18 - [add to calendar]({{ site.url }}/assets/event-files/20240518T130000Z.ics) | Sat May 25 - [add to calendar]({{ site.url }}/assets/event-files/20240525T130000Z.ics) | 1pm - 5pm |
-| Sat June 22 (add to calendar)    | Sat June 29                                      | 1pm - 5pm     |
-| Sat July 13 (add to calendar)     | Sat July 20                                      | 1pm - 5pm     |
+| **Date**         | **Rain Date (only if primary date is canceled)** | **Hours**     |
+|:----------------:|:------------------------------------------------:|:-------------:|
+| Sat May 18       | Sat May 25                                       | 1pm - 5pm     |
+| Sat June 22      | Sat June 29                                      | 1pm - 5pm     |
+| Sat July 13      | Sat July 20                                      | 1pm - 5pm     |
 | Sat August 10    | Sat Aug 17                                       | 1pm - 5pm     |
 | Sat September 14 | Sat September 21                                 | 1pm - 5pm     |
 | Sat October 12   | Sat October 19                                   | 1pm - 5pm     |

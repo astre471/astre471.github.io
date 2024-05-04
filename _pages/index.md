@@ -84,6 +84,7 @@ Launches are only open to ASTRE members, so [join today](join/)!
 | Saturday September 14 | Saturday September 21                            | 1pm - 5pm     |
 | Saturday October 12   | Saturday October 19                              | 1pm - 5pm     |
 
+
 ## Email Group
 
 Club activities (holiday luncheons, go/no go for launches, etc.) are planned and discussed through the email group

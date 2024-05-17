@@ -61,7 +61,7 @@ feature_row:
 
 ### May 18 2024 Launch: GO FOR LAUNCH!
 
-The Saturday May 18 launch status is:  <h2>GO FOR LAUNCH!</h2>
+Saturday May 18 launch status: **GO FOR LAUNCH!**
 
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
 <!-- Please check this page or the email group for status the day before the launch. -->

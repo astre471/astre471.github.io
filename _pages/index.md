@@ -59,12 +59,14 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### May 18 2024 Launch: GO FOR LAUNCH!
+### June 22 2024 Launch: TBD
 
-:rocket: Saturday May 18 launch status: **GO FOR LAUNCH!** :rocket:
+Saturday June 24 launch status: **To be decided Friday evening**
 
+<!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
-<!-- Please check this page or the email group for status the day before the launch. -->
+-->
+Please check this page or the email group for status the day before the launch.
 
 ## Launches - 2024
 

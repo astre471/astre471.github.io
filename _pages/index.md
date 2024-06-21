@@ -59,9 +59,11 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### June 22 2024 Launch: TBD
+### June 22 2024 Launch: POSTPONED
 
-Saturday June 24 launch status: **To be decided Friday evening**
+Saturday June 22 launch status: **POSTPONED**
+
+Please check again next week for our rain date of June 29!
 
 <!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!

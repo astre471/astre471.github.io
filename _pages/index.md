@@ -59,16 +59,18 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### June 22 2024 Launch: POSTPONED
+### June 28 2024 Launch: CANCELED
 
-Saturday June 22 launch status: **POSTPONED**
+Saturday June 29 launch status: **CANCELED**
 
-Please check again next week for our rain date of June 29!
+<!-- Please check again next week for our rain date of June 29! -->
 
 <!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
 -->
-Please check this page or the email group for status the day before the launch.
+<!-- Please check this page or the email group for status the day before the launch. -->
+
+The launch for Saturday June 29 is canceled due to weather. Sorry folks. See you in July!
 
 ## Launches - 2024
 

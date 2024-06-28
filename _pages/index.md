@@ -59,11 +59,11 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### June 28 2024 Launch: CANCELED
+### June 29 2024 Launch: CANCELED
 
 Saturday June 29 launch status: **CANCELED**
 
-<!-- Please check again next week for our rain date of June 29! -->
+<!-- Please check again next week for our rain date! -->
 
 <!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!

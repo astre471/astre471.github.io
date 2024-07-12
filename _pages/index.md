@@ -59,14 +59,23 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### July 13 2024 Launch: TBD
+### July 13 2024 Launch: GO!
 
-Saturday July 13 launch status: **To Be Decided evening of July 12**
+Saturday July 13 launch status: **GO FOR LAUNCH!** 🚀 
 
-<!-- Please check again next week for our rain date! -->
-<!-- See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm! -->
+<!--
+Please check again next week for our rain date! 
+-->
+
+See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
+
+<!--
 Please check this page or the email group for status the day before the launch.
-<!-- The launch for Saturday June 29 is canceled due to weather. Sorry folks. See you in July! -->
+-->
+
+<!-- 
+The launch is canceled due to weather. Sorry folks. See you next month!
+-->
 
 ## Launches - 2024
 

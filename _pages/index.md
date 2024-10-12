@@ -59,7 +59,7 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### October 12 2024 Launch: TBD
+### October 12 2024 Launch: DELAYED
 
 Saturday October 12 launch status: Delayed
 <!-- 

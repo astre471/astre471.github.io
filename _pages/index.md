@@ -59,21 +59,20 @@ feature_row:
 
 ## Launch: Go / No Go Status
 
-### October 12 2024 Launch: DELAYED
+### October 19 2024 Launch: GO!
 
-Saturday October 12 launch status: Delayed
-<!-- 
+Saturday October 19 launch status:
 **GO FOR LAUNCH!** 🚀
--->
 
+<!--
 Delayed due to weather. We will try again next week with our rain date of October 19.
+-->
 
 <!--
 Please check again next week for our rain date status!
 -->
-<!--
+
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
--->
 
 <!--
 Please check this page or the email group for status the day before the launch.

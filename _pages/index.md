@@ -90,7 +90,7 @@ See [Launches](launches/) for site limits on rocket motors and more information.
 
 Launches are only open to ASTRE members, so [join today](join/)!
 
-| **Date**         | **Rain Date (only if primary date is canceled)** | **Hours**     |
+| **Primary Date** | **Rain Date (only if primary date is canceled)** | **Hours**     |
 |:----------------:|:------------------------------------------------:|:-------------:|
 | Sat April 26     | Sat May 3                                        | 1pm - 5pm     |
 | Sat May 17       | Sat May 24                                       | 1pm - 5pm     |

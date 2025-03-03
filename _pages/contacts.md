@@ -7,12 +7,13 @@ permalink: /contacts/
 
 | Role                              | Person            |
 |-----------------------------------|-------------------|
-| ASTRE President                   |  Alex DeMarco     |
+| ASTRE President                   |  Mark Strasser    |
 | ASTRE Vice-President              |  Bob Drosdick     |
-| ASTRE Senior Advisor              |  Jeff Vincent     |
-| ASTRE Treasurer & Website Co-Lead |  Ray Bedard       |
-| ASTRE Member-at-Large             |  Vince Giovanonne |
+| ASTRE Senior Advisor              |  Jeff Wilhelm     |
+| ASTRE Treasurer                   |  Ray Bedard       |
+| ASTRE Member-at-Large             |  Henry Backus     |
 | ASTRE Secretary & Website Co-Lead |  Mark Strasser    |
+| Equipment Manager                 |  Jeff Wilhelm     | 
 
 ## Contact an Officer
 

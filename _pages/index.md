@@ -59,18 +59,15 @@ feature_row:
 
 <!-- ## Launch: Go / No Go Status
 
-### October 19 2024 Launch: GO FOR LAUNCH!
-
-Saturday October 19 launch status: **GO FOR LAUNCH!** 🚀
--->
+### April 26 2025 Launch: CANCELLED
 
 <!--
-Delayed due to weather. We will try again next week with our rain date of October 19.
+Saturday April 26 launch status: **Go for launch!** 🚀
 -->
 
-<!--
+Delayed due to weather. We will try again next week with our rain date.
+
 Please check again next week for our rain date status!
--->
 
 <!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
@@ -82,7 +79,7 @@ Please check this page or the email group for status the day before the launch.
 
 ## Launches - 2025
 
-> :warning: This is a TENTATIVE schedule, and must be confirmed with the landowner.  <!--- All dates will be confirmed prior to launch via the [email list group](#email-group). -->
+> :warning: This is a TENTATIVE schedule. All dates will be confirmed prior to launch via the [email list group](#email-group).
 
 All launches are from [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).
 
@@ -92,7 +89,7 @@ Launches are only open to ASTRE members, so [join today](join/)!
 
 | **Primary Date** | **Rain Date (only if primary date is canceled)** | **Hours**     |
 |:----------------:|:------------------------------------------------:|:-------------:|
-| Sat April 26     | Sat May 3                                        | 1pm - 5pm     |
+| ~~Sat April 26~~     | Sat May 3                                        | 1pm - 5pm     |
 | Sat May 17       | Sat May 24                                       | 1pm - 5pm     |
 | Sat June 21      | Sat June 28                                      | 1pm - 5pm     |
 | Sat July 12      | Sat July 19                                      | 1pm - 5pm     |

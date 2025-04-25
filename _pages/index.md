@@ -57,9 +57,9 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<!-- ## Launch: Go / No Go Status
+<!-- ## Launch: Go / No Go Status -->
 
-### April 26 2025 Launch: CANCELLED
+## April 26 2025 Launch: CANCELLED
 
 <!--
 Saturday April 26 launch status: **Go for launch!** 🚀

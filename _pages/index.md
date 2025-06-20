@@ -59,17 +59,13 @@ feature_row:
 
 <!-- ## Launch: Go / No Go Status -->
 
-## May 24 2025 Launch: CANCELLED
+## June 21 2025 Launch: GO FOR LAUNCH!
 
-<!--
-Saturday April 26 launch status: **Go for launch!** 🚀
--->
+Saturday June 21 launch status: **Go for launch!** 🚀
 
-Cancelled due to weather yet again! 
+<!-- Cancelled due to weather yet again! -->
 
-<!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
--->
 
 <!--
 Please check this page or the email group for status the day before the launch.

@@ -84,7 +84,7 @@ Launches are only open to ASTRE members, so [join today](join/)!
 | **Primary Date** | **Rain Date (only if primary date is canceled)** | **Hours**     |
 |:----------------:|:------------------------------------------------:|:-------------:|
 | ~~Sat April 26~~     | ~~Sat May 3~~                                        | 1pm - 5pm     |
-| ~~Sat May 17~~   | ~~Sat May 24~~ :rain:                                      | 1pm - 5pm     |
+| ~~Sat May 17~~   | ~~Sat May 24~~                                      | 1pm - 5pm     |
 | Sat June 21      | Sat June 28                                      | 1pm - 5pm     |
 | Sat July 12      | Sat July 19                                      | 1pm - 5pm     |
 | Sat August 16    | Sat Aug 23                                       | 1pm - 5pm     |

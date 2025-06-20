@@ -59,13 +59,13 @@ feature_row:
 
 <!-- ## Launch: Go / No Go Status -->
 
-## June 21 2025 Launch: GO FOR LAUNCH!
+## June 21 2025 Launch: Cancelled due to field conditions
 
-Saturday June 21 launch status: **Go for launch!** 🚀
+<!-- Saturday June 21 launch status: **Go for launch!** 🚀 -->
 
-<!-- Cancelled due to weather yet again! -->
+Cancelled due to field conditions being excessively wet and muddy.  We'll check back next week for the rain date!
 
-See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
+<!-- See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm! -->
 
 <!--
 Please check this page or the email group for status the day before the launch.
@@ -83,9 +83,9 @@ Launches are only open to ASTRE members, so [join today](join/)!
 
 | **Primary Date** | **Rain Date (only if primary date is canceled)** | **Hours**     |
 |:----------------:|:------------------------------------------------:|:-------------:|
-| ~~Sat April 26~~     | ~~Sat May 3~~                                        | 1pm - 5pm     |
-| ~~Sat May 17~~   | ~~Sat May 24~~                                      | 1pm - 5pm     |
-| Sat June 21      | Sat June 28                                      | 1pm - 5pm     |
+| ~~Sat April 26~~ | ~~Sat May 3~~                                    | 1pm - 5pm     |
+| ~~Sat May 17~~   | ~~Sat May 24~~                                   | 1pm - 5pm     |
+| ~~Sat June 21~~  | Sat June 28                                      | 1pm - 5pm     |
 | Sat July 12      | Sat July 19                                      | 1pm - 5pm     |
 | Sat August 16    | Sat Aug 23                                       | 1pm - 5pm     |
 | Sat September 13 | Sat September 20                                 | 1pm - 5pm     |

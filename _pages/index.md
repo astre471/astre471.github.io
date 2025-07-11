@@ -1,4 +1,4 @@
----
+I'm---
 layout: home
 author_profile: false
 title: ASTRE
@@ -59,11 +59,11 @@ feature_row:
 
 <!-- ## Launch: Go / No Go Status -->
 
-## June 28 2025 Launch: Cancelled due to weather
+## July 12 2025 Launch: Cancelled due to weather
 
 <!-- Saturday June 21 launch status: **Go for launch!** 🚀 -->
 
-Cancelled due to weather (wind, rain, possible lightning).  We'll try again in July!
+Cancelled due to weather (wind, rain, possible lightning).  We'll try again with our rain date next weekend!
 
 <!-- See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm! -->
 <!--

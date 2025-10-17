@@ -59,7 +59,7 @@ feature_row:
 
 <!-- ## Launch: Go / No Go Status -->
 
-## September 13 2025: **Go for launch!** 🚀
+## October 18 2025: **Go for launch!** 🚀
 
 <!--
 Cancelled due to weather (wind, rain, possible lightning).  We'll try again with our rain date next weekend!
@@ -88,8 +88,8 @@ Launches are only open to ASTRE members, so [join today](join/)!
 | ~~Sat June 21~~  | ~~Sat June 28~~  (cancelled - weather)           | 1pm - 5pm     |
 | ~~Sat July 12~~      | Sat July 19 : GO!                                    | 1pm - 5pm     |
 | ~~Sat August 16~~ : GO!   | Sat Aug 23                                       | 1pm - 5pm     |
-| Sat September 13 : GO! | Sat September 20                                 | 1pm - 5pm     |
-| Sat October 18   | Sat October 25                                   | 1pm - 5pm     |
+| Sat September 13 : GO! | ~~Sat September 20~~                                 | 1pm - 5pm     |
+| Sat October 18 : GO! | Sat October 25                                   | 1pm - 5pm     |
 
 ## Email Group
 

@@ -43,7 +43,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         
   # Deploy pages site if merged to main
-  deploy:
+  deploy-if-main:
+    name: Deploy If Main
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

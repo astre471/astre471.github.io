@@ -33,7 +33,7 @@ jobs:
       - name: Checkout code
         uses: astre471/action-cached-lfs-checkout@main
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
@@ -43,7 +43,8 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         
   # Deploy pages site if merged to main
-  deploy:
+  deploy-if-main:
+    name: Deploy If Main
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,4 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

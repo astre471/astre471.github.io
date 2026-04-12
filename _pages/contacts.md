@@ -7,8 +7,8 @@ permalink: /contacts/
 
 | Role                              | Person            |
 |-----------------------------------|-------------------|
-| ASTRE President                   |  Mark Strasser    |
-| ASTRE Vice-President              |  Bob Drosdick     |
+| ASTRE President                   |  Bob Drosdick     |
+| ASTRE Vice-President              |  Mark Strasser    |
 | ASTRE Senior Advisor              |  Jeff Wilhelm     |
 | ASTRE Treasurer                   |  Ray Bedard       |
 | ASTRE Member-at-Large             |  Henry Backus     |

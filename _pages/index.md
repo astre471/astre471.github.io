@@ -77,7 +77,7 @@ Launch cancelled due to weather (wind, rain, possible lightning).  We'll try aga
 
 ## Launches - 2026
 
-> :warning: This is a TENTATIVE schedule. All dates will be confirmed prior to launch via the [email list group](#email-group).
+> :warning: This is a TENTATIVE schedule. All dates will be confirmed prior to launch via the [email list group](#email-group) on Friday afternoon.
 
 All launches are from [89 Anuszewksi Lane, Greenwich NY](https://goo.gl/maps/yjeWsc4JSsDdpZwLA).  See [Launches](launches/) for site limits on rocket motors and more information.  
 

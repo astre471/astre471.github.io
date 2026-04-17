@@ -58,16 +58,17 @@ feature_row:
 ---
 
 ## Launch: Go / No Go Status
+<!--
 
 First launch in late April 2026!
 
 Please check this page or the email group for status the day before the launch.
 
-<!-- 
-## October 18 2025: **Go for launch!** 🚀
+-->
+
+## April 17 2025: **Go for launch!** 🚀
 
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
--->
 
 <!--
 ## October 18 2025: **Cancelled** 🚀

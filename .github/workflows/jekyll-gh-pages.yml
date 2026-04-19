@@ -40,7 +40,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         
   # Deploy pages site if merged to main
   deploy-if-main:

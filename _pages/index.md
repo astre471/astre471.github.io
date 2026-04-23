@@ -66,9 +66,17 @@ Please check this page or the email group for status the day before the launch.
 
 -->
 
-## April 17 2025: **Go for launch!** 🚀
+## April 25 2025: **Go for launch!** 🚀
+
+April 18 was too windy, so we decided to pack it in and try again with the secondary date.
+
+Please check this page or the email group for status the day before the launch.
+
+<!--
 
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
+
+-->
 
 <!--
 ## October 18 2025: **Cancelled** 🚀

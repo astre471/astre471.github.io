@@ -96,8 +96,8 @@ Launches are open to ASTRE members and friends, so [join today](join/)!
 
 | **Primary Date** | **Rain Date (only if primary date is canceled)** | **Hours**     |
 |:----------------:|:------------------------------------------------:|:-------------:|
-| ~Sat April 18~ Canceled     | Sat April 25                                     | 1pm - 5pm     |
-| Sat May 16       | Sat May 30                                       | 1pm - 5pm     |
+| Canceled:wind ~~Sat April 18~~  | Sat April 25 ✔️                   | 1pm - 5pm     |
+| Canceled:field ~~Sat May 16~~   | Sat May 30                        | 1pm - 5pm     |
 | Sat June 13      | Sat June 20                                      | 1pm - 5pm     |
 | Sat July 11      | Sat July 18                                      | 1pm - 5pm     |
 | Sat August 15    | Sat Aug 22                                       | 1pm - 5pm     |

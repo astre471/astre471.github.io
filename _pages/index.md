@@ -66,9 +66,9 @@ Please check this page or the email group for status the day before the launch.
 
 -->
 
-## May 30 2026: **CANCELED** :x:
+## June 13 2026: **CANCELED** :x:
 
-For May 30, launch is CANCELED due to windy field conditions.  We'll try again next month!
+Launch is CANCELED due to field conditions.  We'll try again with the rain date of next Saturday June 20!
 
 <!-- with the rain date on May 30!
 
@@ -101,7 +101,7 @@ Launches are open to ASTRE members and friends, so [join today](join/)!
 |:----------------:|:------------------------------------------------:|:-------------:|
 | Canceled:wind ~~Sat April 18~~  | Sat April 25 ✔️                   | 1pm - 5pm     |
 | Canceled:field ~~Sat May 16~~   | Canceled:wind  ~~Sat May 30~~                        | 1pm - 5pm     |
-| Sat June 13      | Sat June 20                                      | 1pm - 5pm     |
+| :X: ~~Sat June 13~~ Canceled :field    | Sat June 20                                      | 1pm - 5pm     |
 | Sat July 11      | Sat July 18                                      | 1pm - 5pm     |
 | Sat August 15    | Sat Aug 22                                       | 1pm - 5pm     |
 | Sat September 12 | Sat September 19                                 | 1pm - 5pm     |

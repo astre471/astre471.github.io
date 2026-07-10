@@ -66,11 +66,15 @@ Please check this page or the email group for status the day before the launch.
 
 -->
 
-## June 20 2026: **CANCELED** :x:
+## July 11 2026: **GO!** 🚀 
 
-Launch is CANCELED due to weather, with a high chance of rain, winds, and lightning ⚡. We'll try again next month!
+Launch is a GO for Saturday!  
 
-<!-- with the rain date on May 30!
+<!--
+
+due to weather, with a high chance of rain, winds, and lightning ⚡. We'll try again next month!
+
+ with the rain date on May 30!
 
 Please check this page or the email group for status the day before the launch.
 -->
@@ -79,9 +83,7 @@ Please check this page or the email group for status the day before the launch.
 Please check this page or the email group for status the day before the launch.
 -->
 
-<!--
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
--->
 
 <!--
 ## October 18 2025: **Cancelled** 🚀

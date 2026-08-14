@@ -64,13 +64,9 @@ First launch in late April 2026!
 
 Please check this page or the email group for status the day before the launch.
 
--->
-
 ## July 11 2026: **GO!** 🚀 
 
-Launch is a GO for Saturday!  
-
-<!--
+Launch is a GO for Saturday!
 
 due to weather, with a high chance of rain, winds, and lightning ⚡. We'll try again next month!
 

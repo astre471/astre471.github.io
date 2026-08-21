@@ -58,28 +58,26 @@ feature_row:
 ---
 
 ## Launch: Go / No Go Status
-<!--
 
+<!--
 First launch in late April 2026!
 
 Please check this page or the email group for status the day before the launch.
+-->
 
-## July 11 2026: **GO!** 🚀 
+## August 22 2026: **GO!** 🚀 
 
 Launch is a GO for Saturday!
 
-due to weather, with a high chance of rain, winds, and lightning ⚡. We'll try again next month!
-
- with the rain date on May 30!
-
-Please check this page or the email group for status the day before the launch.
-
 See you on [the field](https://goo.gl/maps/yjeWsc4JSsDdpZwLA) from 1pm - 5pm!
--->
+
+<!--
 
 ## August 15 2026: **Cancelled** 
 
 Launch cancelled due to officer availability.  We'll try again with our rain date!
+
+-->
 
 ## Launches - 2026
 
@@ -94,8 +92,8 @@ Launches are open to ASTRE members and friends, so [join today](join/)!
 | Canceled:wind ~~Sat April 18~~  | Sat April 25 ✔️                   | 1pm - 5pm     |
 | Canceled:field ~~Sat May 16~~   | Canceled:wind  ~~Sat May 30~~                        | 1pm - 5pm     |
 | ~~Sat June 13~~ Canceled:field   | ~~Sat June 20~~ Canceled:weather 🌩️                                   | 1pm - 5pm     |
-| Sat July 11 GO! 🚀   | Sat July 18                                      | 1pm - 5pm |
-| ~~Sat August 15~~ Canceled: availability    | Sat Aug 22                                       | 1pm - 5pm     |
+| Sat July 11 GO! ✅   | Sat July 18                                      | 1pm - 5pm |
+| ~~Sat August 15~~ Canceled: availability    | Sat Aug 22 GO! 🚀                                    | 1pm - 5pm     |
 | Sat September 12 | Sat September 19                                 | 1pm - 5pm     |
 | Sat October 10   | Sat October 17                                   | 1pm - 5pm     |
 

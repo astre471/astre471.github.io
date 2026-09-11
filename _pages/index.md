@@ -65,7 +65,7 @@ First launch in late April 2026!
 Please check this page or the email group for status the day before the launch.
 -->
 
-## August 22 2026: **GO!** 🚀 
+## September 12 2026: **GO!** 🚀 
 
 Launch is a GO for Saturday!
 
@@ -93,8 +93,8 @@ Launches are open to ASTRE members and friends, so [join today](join/)!
 | Canceled:field ~~Sat May 16~~   | Canceled:wind  ~~Sat May 30~~                        | 1pm - 5pm     |
 | ~~Sat June 13~~ Canceled:field   | ~~Sat June 20~~ Canceled:weather 🌩️                                   | 1pm - 5pm     |
 | Sat July 11 GO! ✅   | Sat July 18                                      | 1pm - 5pm |
-| ~~Sat August 15~~ Canceled: availability    | Sat Aug 22 GO! 🚀                                    | 1pm - 5pm     |
-| Sat September 12 | Sat September 19                                 | 1pm - 5pm     |
+| ~~Sat August 15~~ Canceled: availability    | Sat Aug 22 GO! ✅                                    | 1pm - 5pm     |
+| Sat September 12 🚀 | Sat September 19                                 | 1pm - 5pm     |
 | Sat October 10   | Sat October 17                                   | 1pm - 5pm     |
 
 ## Email Group
